@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @victoroh11
-- 👀 I’m interested in ... Learning python
-- 🌱 I’m currently learning ... College year 1 Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Learning coding
+- 🌱 I’m currently learning ... Python, C, C++, etc.
+- 💞️ I’m looking to collaborate on ... various projects
 
 <!---
 victoroh11/victoroh11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
